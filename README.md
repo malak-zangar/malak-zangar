@@ -19,8 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malak-zangar&show_icons=true&locale=en" alt="malak-zangar" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malak-zangar&" alt="malak-zangar" /></p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malak-zangar" alt="malak-zangar" /></a> </p>
 
