@@ -39,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>  
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="40" height="40"/> 
 </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -63,10 +63,10 @@
 
 <p align="left"><strong>Salesforce:</strong>  
 <a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/salesforce-1.svg" alt="salesforce" width="40" height="40"/> 
+  <img src="https://www.sparkplug.ai/wp-content/uploads/2023/10/salesforce-logo.png" alt="salesforce" width="40" height="40"/> 
 </a>  
 <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/lightning-web-components.svg" alt="LWC" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-salesforce/events/lwc%20%281%29.png" alt="LWC" width="40" height="40"/> 
 </a>  
 <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/apex.svg" alt="Apex" width="40" height="40"/> 
