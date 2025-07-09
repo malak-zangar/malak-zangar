@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malak Zangar</h1>
 <h3 align="center">A passionate software developer from Tunisia</h3>
+<p align="center">
+  Recent software engineering graduate with hands-on experience in full-stack development, Salesforce platform, and cloud solutions. 
+  Curious, adaptable, and driven by challenge, I love building impactful applications and continuously expanding my tech expertise.
+</p>
 
 - 📫 How to reach me **zangarmalak@gmail.com**
 
